@@ -1,4 +1,7 @@
 My commit second
+<<<<<<< HEAD
 Third commit 
 Fourth commit
 New add
+=======
+>>>>>>> parent of eeaf20c (added3)
